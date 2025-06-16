@@ -1,18 +1,21 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/@your-youtube/">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/91xxxxxxxxxx">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp" />
   </a>
   <a href="https://twitter.com/your-twitter/">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
   </a>
 </div>
 
@@ -37,12 +40,18 @@ I'm Navneet Singh from India 🇮🇳 <br><br>
 - 🔭 I’m currently working on full stack web projects and open-source contributions.<br>
 - 🌱 I’m currently learning backend development, cloud computing, and system design.<br>
 - 💬 Ask me about JavaScript, React, MongoDB, C++, and Git.<br>
-- ⚡ Fun fact: I love listening to music and exploring tech that solves real-world problems.
+- 💡 I enjoy solving real-world problems with scalable and efficient code.<br>
+- 👨‍🎓 I’m a Computer Engineering student at Army Institute of Technology, Pune.<br>
+- 🧠 Passionate about competitive programming and constantly improving my problem-solving skills.<br>
+- 🚀 Interested in DevOps, system architecture, and building cloud-native applications.<br>
+- 🎯 Actively contributing to hackathons and collaborative tech events.<br>
+- 🎵 Music keeps me going—I love coding while vibing to good playlists.<br>
+- ⚡ Fun fact: I believe in the power of consistency and small daily progress.
 </p>
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left">🛠 Languages and Tools I Worked with </h3>
 
 ###
 
@@ -63,14 +72,3 @@ I'm Navneet Singh from India 🇮🇳 <br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
 </div>
-
-###
-
-<h3 align="left">🔥 My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
