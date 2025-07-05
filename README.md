@@ -45,15 +45,14 @@
 </div>
 <img align="right" height="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 <div align="left">
-
-🎯 Current Focus:
-
-🔭 Building full-stack web applications with modern technologies
-🌱 Exploring cloud computing and microservices architecture
-💡 Contributing to open-source projects
-🧠 Sharpening competitive programming skills
-📚 Learning system design principles
-
+  <h3>🎯 Current Focus:</h3>
+  <ul>
+    <li>🔭 Building full-stack web applications with modern technologies</li>
+    <li>🌱 Exploring cloud computing and microservices architecture</li>
+    <li>💡 Contributing to open-source projects</li>
+    <li>🧠 Sharpening competitive programming skills</li>
+    <li>📚 Learning system design principles</li>
+  </ul>
 </div>
 <br clear="both"/>
 
