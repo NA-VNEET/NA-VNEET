@@ -46,15 +46,6 @@
 
 <img align="right" height="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-```yaml
-name: Navneet Singh
-located_in: Pune, India
-current_job: Computer Engineering Student
-education: ["Army Institute of Technology"]
-fields_of_interests: ["Web Development", "System Design", "Competitive Programming"]
-currently_learning: ["Backend Development", "Cloud Computing", "System Design"]
-hobbies: ["Coding", "Problem Solving", "Learning New Technologies"]
-```
 
 <br>
 
@@ -100,70 +91,12 @@ hobbies: ["Coding", "Problem Solving", "Learning New Technologies"]
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navneet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneet&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NA-VNEET&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NA-VNEET&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navneet&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-    Coding Activity
-  </h2>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navneet&custom_title=Navneet's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30">
-    Featured Projects
-  </h2>
-</div>
-
-<div align="center">
-  <a href="https://github.com/navneet/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navneet&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/navneet/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navneet&repo=project2&theme=tokyonight" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-    Fun Facts
-  </h2>
-</div>
-
-<div align="center">
-
-
-const navneet = {
-    pronouns: "He/Him",
-    askMeAbout: ["Web Development", "JavaScript", "React", "Node.js", "C++"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "TypeScript", "HTML5", "CSS3"],
-        backEnd: ["Node.js", "Python", "Flask"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        tools: ["Git", "Docker", "Linux", "VS Code"]
-    },
-    funFact: "I believe in the power of consistency and small daily progress! 🚀",
-    currentlyLearning: "System Design and Cloud Architecture ☁️"
-};
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NA-VNEET&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
