@@ -43,18 +43,25 @@
     About Me
   </h2>
 </div>
-
 <img align="right" height="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<div align="left">
+yamlname: Navneet Singh
+located_in: Pune, India
+current_job: Computer Engineering Student
+education: ["Army Institute of Technology"]
+fields_of_interests: ["Web Development", "System Design", "Competitive Programming"]
+currently_learning: ["Backend Development", "Cloud Computing", "System Design"]
+hobbies: ["Coding", "Problem Solving", "Learning New Technologies"]
+🎯 Current Focus:
 
+🔭 Building full-stack web applications with modern technologies
+🌱 Exploring cloud computing and microservices architecture
+💡 Contributing to open-source projects
+🧠 Sharpening competitive programming skills
+📚 Learning system design principles
 
-<br>
-
-**🎯 Current Focus:**
-- 🔭 Building full-stack web applications with modern technologies
-- 🌱 Exploring cloud computing and microservices architecture
-- 💡 Contributing to open-source projects
-- 🧠 Sharpening competitive programming skills
-- 📚 Learning system design principles
+</div>
+<br clear="both"/>
 
 ---
 
